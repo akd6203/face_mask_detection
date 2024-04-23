@@ -1,6 +1,6 @@
 # Face Mask Detection using Python
 
-https://github.com/akd6203/face_mask_detection/blob/main/faceMask.png
+!https://github.com/akd6203/face_mask_detection/blob/main/faceMask.png
 
 This project implements a deep learning model for detecting whether a person is wearing a face mask or not. The model is trained using Python and the Keras library with a pre-trained VGG16 architecture.
 
